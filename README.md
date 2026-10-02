@@ -59,9 +59,7 @@ Key visuals include:
 - Top countries by content
 - Genre distribution
 - Average running time by rating
-
-![Netflix Dashboard](Screenshots/01_Netflix_Dashboard.png)
-
+  
 ---
 
 ### 2. Prime Video Dashboard
@@ -80,8 +78,6 @@ Key visuals include:
 - Longest-duration movies
 - TV shows with the highest number of seasons
 
-![Prime Video Dashboard](Screenshots/02_Prime_Video_Dashboard.png)
-
 ---
 
 ### 3. Disney+ Hotstar Dashboard
@@ -99,8 +95,6 @@ Key visuals include:
 - Movie vs TV content distribution
 - Top genres
 - Genre and age-rating filters
-
-![Disney+ Hotstar Dashboard](Screenshots/03_Disney_Hotstar_Dashboard.png)
 
 ---
 
@@ -125,8 +119,6 @@ Key analysis:
 - Genre distribution
 - Release-year analysis
 
-![Tamil Movie Dashboard](Screenshots/04_Tamil_Movie_Dashboard_Overview.png)
-
 ---
 
 ### 5. Tamil Movie Trend Analysis
@@ -141,9 +133,7 @@ Key visuals include:
 - Movie and web-series release trends
 - IMDb rating slicer
 - Release-year analysis
-
-![Tamil Movie Analysis](Screenshots/05_Tamil_Movie_Dashboard_Analysis.png)
-
+  
 ---
 
 ### 6. OTT Master Dashboard
@@ -162,8 +152,6 @@ Key KPIs and visuals include:
 - Top 10 highest-rated content
 - Platform and genre filters
 - Release-year range
-
-![OTT Master Dashboard](Screenshots/06_OTT_Master_Dashboard.png)
 
 ---
 
@@ -425,8 +413,8 @@ This project demonstrates practical skills in:
 
 ## 📷 Dashboard Preview
 
-The `Screenshots` folder contains the complete dashboard screenshots for quick viewing without opening Power BI.
-
+The `Screenshots` contains the complete dashboard screenshots for quick viewing without opening Power BI.
+ 
 ---
 
 ## 👩‍💻 Author
